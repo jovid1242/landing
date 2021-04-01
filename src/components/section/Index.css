@@ -16,7 +16,8 @@
     width: 300px;
     height: 450px;
     z-index: 9;
-    margin-top: 2rem;
+
+    padding: 2rem;
 }
 
 .img-section img {

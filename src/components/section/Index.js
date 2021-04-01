@@ -13,12 +13,12 @@ export default function Index() {
                 </div>
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-3">
+                        <div className="col-md-5">
                             <div className="img-section">
                                 <img src={img1} alt="img1" />
                             </div>
                         </div>
-                        <div className="col-md-9">
+                        <div className="col-md-7">
                             <div className="info-section">
                                 <span>Develop Without Limits</span>
                                 <p>WooCommerce is developer friendly, too. Built with a REST API,
@@ -31,7 +31,7 @@ export default function Index() {
                         </div>
                     </div>
                     <div className="row">
-                        <div className="col-md-9">
+                        <div className="col-md-7">
                             <div className="info-section">
                                 <span>Develop Without Limits</span>
                                 <p>WooCommerce is developer friendly, too. Built with a REST API,
@@ -42,7 +42,7 @@ export default function Index() {
                                 <button className="info-btn">Read the Documentation</button>
                             </div>
                         </div>
-                        <div className="col-md-3">
+                        <div className="col-md-5">
                             <div className="img-section">
                                 <img src={img1} alt="img1" />
                             </div>

@@ -1,0 +1,63 @@
+.footer {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background: #7854F7;
+    z-index: 9;
+}
+
+.footer-header {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.items p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin: 0.5rem;
+}
+
+.footer-logo {
+    padding: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.basement {
+    width: 100%;
+    height: auto;
+    background: #fff;
+    padding: 15px;
+}
+
+.basement p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #272D4E;
+}
+
+.icons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons svg {
+    margin-left: 25px;
+}
