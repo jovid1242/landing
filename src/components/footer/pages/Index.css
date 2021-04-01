@@ -12,6 +12,7 @@
 }
 
 .pages ul li {
+    cursor: pointer;
     left: 0;
     list-style: none;
     font-style: normal;

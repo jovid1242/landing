@@ -2,6 +2,12 @@ body {
   background: #e6f0ff;
 }
 
+.affix {
+  background: #e6f0ff !important;
+  -webkit-transition: padding 0.4s ease-out;
+  transition: padding 0.4s ease-out;
+}
+
 /* .App {
   text-align: center;
 }
