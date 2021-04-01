@@ -41,7 +41,7 @@
     width: 100%;
     height: auto;
     background: #fff;
-    padding: 15px;
+    padding: 20px;
 }
 
 .basement p {
@@ -56,6 +56,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .icons svg {
