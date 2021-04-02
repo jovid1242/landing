@@ -23,19 +23,18 @@ export default function Header() {
                         <Logo />
                         <Menu />
                         <Navigation />
-                        <div class="hamburger-menu">
+                        <div className="hamburger-menu">
                             <input id="menu__toggle" type="checkbox" />
-                            <label class="menu__btn" for="menu__toggle">
+                            <label className="menu__btn" htmlFor="menu__toggle">
                                 <span></span>
                             </label>
-
-                            <ul class="menu__box">
-                                <li><a class="menu__item" href="#">Главная</a></li>
-                                <li><a class="menu__item" href="#">Resources</a></li>
-                                <li><a class="menu__item" href="#">Develop</a></li>
-                                <li><a class="menu__item" href="#">Community</a></li>
-                                <li><a class="menu__item" href="#">Marketplace</a></li>
-                                <li><a class="menu__item" href="#">Sell</a></li>
+                            <ul className="menu__box">
+                                <li><a className="menu__item" href="#">Главная</a></li>
+                                <li><a className="menu__item" href="#">Resources</a></li>
+                                <li><a className="menu__item" href="#">Develop</a></li>
+                                <li><a className="menu__item" href="#">Community</a></li>
+                                <li><a className="menu__item" href="#">Marketplace</a></li>
+                                <li><a className="menu__item" href="#">Sell</a></li>
                             </ul>
                         </div>
                     </div>

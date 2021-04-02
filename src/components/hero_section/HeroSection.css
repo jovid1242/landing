@@ -41,6 +41,10 @@ section {
     color: #94A2B3;
 }
 
+.hero-slider-content button:hover {
+    box-shadow: 1px 3px 30px #00000085;
+}
+
 .action-btns {
     position: absolute;
     display: flex;

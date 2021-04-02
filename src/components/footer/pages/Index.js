@@ -4,18 +4,10 @@ import './Index.css'
 export default function Index() {
     return (
         <>
-            <div className="container">
-                <div className="pages">
+            <div className="pages">
+                <div className="container">
                     <div className="row">
-                        <div className="col-md-2">
-                            <ul>
-                                <span>Who we Are</span>
-                                <li>About</li>
-                                <li>Team</li>
-                                <li>Work With Us</li>
-                            </ul>
-                        </div>
-                        <div className="col-md-2">
+                        <div className="col-md-3">
                             <ul>
                                 <span>Woocommerce</span>
                                 <li>Features</li>
@@ -23,13 +15,6 @@ export default function Index() {
                                 <li>Marketing</li>
                                 <li>Shipping</li>
                                 <li>Extension Store</li>
-                                <li>eCommerce blog</li>
-                                <li>Development blog</li>
-                                <li>Ideas board</li>
-                                <li>Mobile App</li>
-                                <li>Community</li>
-                                <li>Style Guide</li>
-                                <li>Email Newsletter</li>
                             </ul>
                         </div>
                         <div className="col-md-3">
@@ -48,12 +33,9 @@ export default function Index() {
                                 <li>Customizations</li>
                                 <li> Support Policy</li>
                                 <li>Contact</li>
-                                <li>COVID-19 Resources</li>
-                                <li>Privacy Notice for</li>
-                                <li>California Users</li>
                             </ul>
                         </div>
-                        <div className="col-md-2">
+                        <div className="col-md-3">
                             <ul>
                                 <span>We recommend</span>
                                 <li>WooExperts</li>
