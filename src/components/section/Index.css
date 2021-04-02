@@ -16,7 +16,6 @@
     width: 300px;
     height: 450px;
     z-index: 9;
-
     padding: 2rem;
 }
 
@@ -60,4 +59,42 @@
     color: #fff;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+@media (max-width: 375px) {
+    .section {
+        height: 1000px;
+    }
+
+    .img-section img {
+        width: 320px;
+        height: 280px;
+    }
+
+    .info-section {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+}
+
+@media (max-width: 900px) {
+    .section {
+        height: 1450px;
+        z-index: 10;
+    }
+
+    .img-section {
+        padding: 10px;
+        width: 400px;
+        height: 300px;
+    }
+
+    .info-section {
+        align-items: center;
+        width: 100%;
+        margin: 10px;
+    }
+
 }

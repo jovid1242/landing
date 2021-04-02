@@ -73,3 +73,13 @@ section {
     color: #94A2B3;
     padding: 1rem;
 }
+
+@media (max-width: 1000px) {
+    .hero-slider-content {
+        position: relative;
+        margin-top: 3.5rem;
+        padding: 2rem;
+        z-index: 16;
+    }
+
+}

@@ -62,3 +62,20 @@
 .icons svg {
     margin-left: 25px;
 }
+
+@media (max-width:1000px) {
+    .items {
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+    }
+
+    .basement {
+        width: 100%;
+        height: auto;
+    }
+
+    .icons svg {
+        margin: 10px;
+    }
+}

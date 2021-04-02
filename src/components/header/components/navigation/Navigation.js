@@ -1,6 +1,7 @@
 import React from 'react'
 import Button from '../button/Button'
 import SearchIcon from '../icon/search'
+import Menu from './Menu'
 import './Navigation.css'
 
 export default function Navigation() {
