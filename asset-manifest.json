@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/landing/static/css/main.cd4edfb1.chunk.css",
+    "main.js": "/landing/static/js/main.e9480601.chunk.js",
+    "main.js.map": "/landing/static/js/main.e9480601.chunk.js.map",
+    "runtime-main.js": "/landing/static/js/runtime-main.a1a10f70.js",
+    "runtime-main.js.map": "/landing/static/js/runtime-main.a1a10f70.js.map",
+    "static/css/2.150d169a.chunk.css": "/landing/static/css/2.150d169a.chunk.css",
+    "static/js/2.81ed830b.chunk.js": "/landing/static/js/2.81ed830b.chunk.js",
+    "static/js/2.81ed830b.chunk.js.map": "/landing/static/js/2.81ed830b.chunk.js.map",
+    "static/js/3.15521bda.chunk.js": "/landing/static/js/3.15521bda.chunk.js",
+    "static/js/3.15521bda.chunk.js.map": "/landing/static/js/3.15521bda.chunk.js.map",
+    "index.html": "/landing/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/landing/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.cd4edfb1.chunk.css.map": "/landing/static/css/main.cd4edfb1.chunk.css.map",
+    "static/js/2.81ed830b.chunk.js.LICENSE.txt": "/landing/static/js/2.81ed830b.chunk.js.LICENSE.txt",
+    "static/media/2.d52fa8a4.png": "/landing/static/media/2.d52fa8a4.png",
+    "static/media/2222.98db64c6.png": "/landing/static/media/2222.98db64c6.png",
+    "static/media/2223.29d94f7f.png": "/landing/static/media/2223.29d94f7f.png",
+    "static/media/3.a6032d41.png": "/landing/static/media/3.a6032d41.png",
+    "static/media/bg-section-2.5426c86f.png": "/landing/static/media/bg-section-2.5426c86f.png",
+    "static/media/bg-section.4b5e3e97.png": "/landing/static/media/bg-section.4b5e3e97.png",
+    "static/media/c1.a55049c3.jfif": "/landing/static/media/c1.a55049c3.jfif",
+    "static/media/c2.e1679414.jfif": "/landing/static/media/c2.e1679414.jfif",
+    "static/media/c3.fd65e035.jfif": "/landing/static/media/c3.fd65e035.jfif",
+    "static/media/f1.6bdd0c7d.png": "/landing/static/media/f1.6bdd0c7d.png",
+    "static/media/img4.7961fa23.jpg": "/landing/static/media/img4.7961fa23.jpg",
+    "static/media/img5.1947928f.jpg": "/landing/static/media/img5.1947928f.jpg",
+    "static/media/s1.c911da26.jfif": "/landing/static/media/s1.c911da26.jfif",
+    "static/media/testimonial-bg.f8ae2127.png": "/landing/static/media/testimonial-bg.f8ae2127.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a10f70.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.81ed830b.chunk.js",
+    "static/css/main.cd4edfb1.chunk.css",
+    "static/js/main.e9480601.chunk.js"
+  ]
+}
